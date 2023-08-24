@@ -1,10 +1,13 @@
+import Container from "./components/layout/Container/Container"
 import Home from "./components/pages/Home/Home"
 
 const App = () => {
 
   return (
     <>
-      <Home />
+      <Container>
+        <Home />
+      </Container>
     </>
   )
 }
