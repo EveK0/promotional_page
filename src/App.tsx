@@ -1,8 +1,10 @@
-function App() {
+import Home from "./components/pages/Home/Home"
+
+const App = () => {
 
   return (
     <>
-      INITIAL SETUP
+      <Home />
     </>
   )
 }
