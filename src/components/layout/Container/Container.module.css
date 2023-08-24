@@ -1,11 +1,10 @@
 .container {
 	display: flex;
-	margin-top: -2rem;
 	background-color: #0e0e0e;
 	color: #f2fbf2;
 	padding: 1rem 1rem;
 	max-width: 1700px;
 	min-height: calc(100vh - 1rem);
-	margin: 1rem auto;
+	margin: auto;
 	border-radius: 1rem;
 }

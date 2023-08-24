@@ -8,7 +8,7 @@ const Home = () => {
 					<Reveal>
 						<h1 >Solving system for <span> RECAPTCHA </span></h1>
 					</Reveal>
-					<button>See More</button>
+					<button type='submit'>See More</button>
 				</div>
 				<div id={styles.right}>
 					<Reveal>

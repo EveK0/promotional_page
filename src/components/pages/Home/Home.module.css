@@ -52,14 +52,22 @@ h1 {
 	}
 
 	.header h1 {
-		margin: 0 auto 20rem;
+		margin: 10rem auto 7rem;
 		font-size: 32px;
 		max-width: 14rem;
-
 	}
 
 	.header {
 		background-image: none;
+	}
+
+	button {
+		display: none !important;
+	}
+
+	h2 {
+		margin-top: 1rem;
+		margin-bottom: 10rem;
 	}
 
 }
